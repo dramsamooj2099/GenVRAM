@@ -1,0 +1,1 @@
+mosaic.bat -s UMass -v -b 20

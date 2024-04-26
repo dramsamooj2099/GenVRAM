@@ -1,0 +1,12 @@
+START /B /WAIT cmd /c mosaic -s UMassDart21  
+START /B /WAIT cmd /c mosaic -s UMassDart22  
+START /B /WAIT cmd /c mosaic -s UMassDart23  
+START /B /WAIT cmd /c mosaic -s UMassDart24  
+START /B /WAIT cmd /c mosaic -s UMassDart41  
+START /B /WAIT cmd /c mosaic -s UMassDart42  
+START /B /WAIT cmd /c mosaic -s UMassDart43  
+START /B /WAIT cmd /c mosaic -s UMassDart44  
+START /B /WAIT cmd /c mosaic -s UMassDart51  
+START /B /WAIT cmd /c mosaic -s UMassDart52  
+START /B /WAIT cmd /c mosaic -s UMassDart53  
+START /B /WAIT cmd /c mosaic -s UMassDart54  
